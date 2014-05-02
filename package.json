@@ -1,0 +1,16 @@
+{
+  "name": "ShadowHunter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "dependencies": {
+    "express": "3.3.5",
+	"jade": "0.34.1",
+	"marked":"0.2.9",
+	"jsdom":"0.8.9",
+	"kissy":"1.4.1-3",
+	"MD5": "1.2.0"
+  }
+}
